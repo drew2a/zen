@@ -8,7 +8,6 @@
   <img width="350" src="./enso.png">
 </p>
 
-## Principles
 1. DRY – Don’t Repeat Yourself
 1. KISS – Keep It Simple Stupid
 1. YAGNI – You Aren’t Gonna Need It
